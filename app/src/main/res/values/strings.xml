@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Çeviri</string>
+    <string name="baslik">Hoş Geldiniz..</string>
+    <string name="aciklama">Bu uygulama ile ingilizce deyimlerin anlamlarını bulmak çok kolay</string>
+    <string name="deyim"></string>
+    <string name="cevir">Anlamını Gör</string>
+    <string name="anlam">Deyimin anlamı</string>
+</resources>
